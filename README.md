@@ -1,0 +1,2 @@
+# Vehicle-plates-detection
+To what extent can a computer recognize Vehicle plate’s governorate? How much information can it extract from the plates? This project aims to detect the vehicle plate’s governorate in a given image and count the number of characters and numbers. In its basic form, the program  able to extract plate from the image, and then segment this plate into a set of characters and numbers. The text can be slightly rotated.  A more advanced step can be dealing with non-uniformly illuminated images, and be able to extract the required information.
